@@ -1,5 +1,6 @@
 # holy_grail_flexbox
-responsive example
+
+[responsive example](https://thefonso.github.io/holy_grail_flexbox/index.html)
 
 Download this example and open in your browser. Grab the edge of browser and reshape it. Notice how EVERYTHING resizes?
 
